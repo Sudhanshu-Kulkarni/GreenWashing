@@ -15,18 +15,18 @@ from datetime import datetime
 
 try:
     from .pdf_extractor import PDFExtractor
-    from .claim_classifier import ClaimClassifier
+    from .huggingface_classifier import HuggingFaceClaimClassifier
     from .esg_verifier import ESGVerifier
     from .results_formatter import ResultsFormatter
-    from .config import MODEL_PATH, ESG_CSV_PATH, CONFIDENCE_THRESHOLD
+    from .config import ESG_CSV_PATH, CONFIDENCE_THRESHOLD
     from .exceptions import ESGProcessingError, PDFExtractionError, ModelLoadError, VerificationError
 except ImportError:
     # Fallback for direct execution
     from pdf_extractor import PDFExtractor
-    from claim_classifier import ClaimClassifier
+    from huggingface_classifier import HuggingFaceClaimClassifier
     from esg_verifier import ESGVerifier
     from results_formatter import ResultsFormatter
-    from config import MODEL_PATH, ESG_CSV_PATH, CONFIDENCE_THRESHOLD
+    from config import ESG_CSV_PATH, CONFIDENCE_THRESHOLD
     from exceptions import ESGProcessingError, PDFExtractionError, ModelLoadError, VerificationError
 
 # Configure logging
@@ -109,18 +109,15 @@ class NLPProcessor:
     """
     
     def __init__(self, 
-                 model_path: Optional[str] = None,
                  csv_path: Optional[str] = None,
                  confidence_threshold: Optional[float] = None):
         """
         Initialize the NLP processor with required components.
         
         Args:
-            model_path: Path to the fine-tuned model (optional, uses config default)
             csv_path: Path to ESG CSV file (optional, uses config default)
             confidence_threshold: Confidence threshold for claim classification
         """
-        self.model_path = Path(model_path) if model_path else MODEL_PATH
         self.csv_path = Path(csv_path) if csv_path else ESG_CSV_PATH
         self.confidence_threshold = confidence_threshold or CONFIDENCE_THRESHOLD
         
@@ -143,9 +140,9 @@ class NLPProcessor:
             self.pdf_extractor = PDFExtractor()
             logger.info("PDF extractor initialized")
             
-            # Initialize claim classifier
-            self.claim_classifier = ClaimClassifier(self.model_path)
-            logger.info("Claim classifier initialized")
+            # Initialize Hugging Face claim classifier
+            self.claim_classifier = HuggingFaceClaimClassifier()
+            logger.info("Hugging Face claim classifier initialized")
             
             # Initialize ESG verifier
             self.esg_verifier = ESGVerifier(str(self.csv_path))
@@ -431,9 +428,9 @@ class NLPProcessor:
             
             processing_time = time.time() - self.status.start_time if self.status.start_time else 0
             model_info = {
-                'model_path': str(self.model_path),
                 'csv_path': str(self.csv_path),
-                'confidence_threshold': self.confidence_threshold
+                'confidence_threshold': self.confidence_threshold,
+                'classifier_type': 'HuggingFace API'
             }
             
             results = formatter.format_processing_results(

@@ -1,9 +1,9 @@
 // NLP Service for Climate Claim Analysis
 // Connects to Python backend API
 
-// Use Render deployment URL (update after deployment)
-const API_BASE_URL = 'https://esg-climate-api.onrender.com'; // Your actual Render URL
-const LOCAL_API_URL = 'http://192.168.1.5:8000'; // Fallback for local development
+// Local Flask server URL
+const API_BASE_URL = 'http://localhost:8000'; // Local Flask server
+const LOCAL_API_URL = 'http://192.168.1.5:8000'; // Network IP for physical devices
 
 // Auto-detect environment
 const isDevelopment = __DEV__ || false;

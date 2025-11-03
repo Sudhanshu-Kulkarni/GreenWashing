@@ -8,8 +8,11 @@ from pathlib import Path
 
 # Base paths
 BASE_DIR = Path(__file__).parent.parent
-MODEL_PATH = BASE_DIR / "trained_llm_for_claim_classification" / "best_finetuned_model"
 ESG_CSV_PATH = BASE_DIR / "esg_lookup_2020_2025.csv"
+
+# Hugging Face Configuration
+HF_MODEL_NAME = os.getenv('HF_MODEL_NAME', 'your-username/your-model-name')
+HF_API_TOKEN = os.getenv('HF_API_TOKEN')
 
 # Processing parameters
 CONFIDENCE_THRESHOLD = 0.7
@@ -30,10 +33,13 @@ for directory in [SHARED_DIR, UPLOADS_DIR, PROCESSING_DIR, RESULTS_DIR]:
 # Validation
 def validate_config():
     """Validate that required files and directories exist."""
-    if not MODEL_PATH.exists():
-        raise FileNotFoundError(f"Model path not found: {MODEL_PATH}")
-    
     if not ESG_CSV_PATH.exists():
         raise FileNotFoundError(f"ESG CSV file not found: {ESG_CSV_PATH}")
+    
+    if not HF_MODEL_NAME or HF_MODEL_NAME == 'your-username/your-model-name':
+        raise ValueError("HF_MODEL_NAME environment variable must be set to your Hugging Face model name")
+    
+    if not HF_API_TOKEN:
+        raise ValueError("HF_API_TOKEN environment variable must be set")
     
     return True

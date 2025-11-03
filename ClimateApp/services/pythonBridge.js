@@ -874,8 +874,8 @@ export class PythonBridge {
       // This matches the server output: "Running on http://192.168.1.5:8000"
       return 'http://192.168.1.5:8000';
     } else {
-      // Production API URL - replace with your deployed server
-      return process.env.REACT_APP_API_URL || 'https://esg-climate-api.onrender.com';
+      // Production uses localhost Flask server
+      return process.env.REACT_APP_API_URL || 'http://localhost:8000';
     }
   }
 

@@ -349,11 +349,11 @@ secrets.json
 config/secrets*
 .secrets
 
-# Large model files (GitHub has 100MB limit)
-trained_llm_for_claim_classification/best_finetuned_model/model.safetensors
-trained_llm_for_claim_classification/best_finetuned_model/pytorch_model.bin
+# Large model files (now using Hugging Face API instead)
+trained_llm_for_claim_classification/best_finetuned_model/
 *.bin
 *.safetensors
+*.h5
 
 # Test files
 test_*.pdf
