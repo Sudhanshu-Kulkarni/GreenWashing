@@ -1,0 +1,601 @@
+company,year,metric,value,unit,source
+Apple,2020,emissions_tCO2e,2126615,tons,CDP
+Apple,2020,scope_1_emissions,950168,tons,CDP
+Apple,2020,scope_2_emissions,1176447,tons,CDP
+Apple,2020,renewable_energy_percent,58.2,%,Sustainability Report
+Apple,2020,climate_policy_score,B,,LobbyMap
+Apple,2021,emissions_tCO2e,2155060,tons,CDP
+Apple,2021,scope_1_emissions,875332,tons,CDP
+Apple,2021,scope_2_emissions,1279728,tons,CDP
+Apple,2021,renewable_energy_percent,64.2,%,Sustainability Report
+Apple,2021,climate_policy_score,C,,LobbyMap
+Apple,2022,emissions_tCO2e,1982514,tons,CDP
+Apple,2022,scope_1_emissions,1105106,tons,CDP
+Apple,2022,scope_2_emissions,877408,tons,CDP
+Apple,2022,renewable_energy_percent,71.4,%,Sustainability Report
+Apple,2022,climate_policy_score,D,,LobbyMap
+Apple,2023,emissions_tCO2e,1898838,tons,CDP
+Apple,2023,scope_1_emissions,1108078,tons,CDP
+Apple,2023,scope_2_emissions,790760,tons,CDP
+Apple,2023,renewable_energy_percent,80.2,%,Sustainability Report
+Apple,2023,climate_policy_score,C,,LobbyMap
+Apple,2024,emissions_tCO2e,1810364,tons,CDP
+Apple,2024,scope_1_emissions,1150581,tons,CDP
+Apple,2024,scope_2_emissions,659783,tons,CDP
+Apple,2024,renewable_energy_percent,84.7,%,Sustainability Report
+Apple,2024,climate_policy_score,C,,LobbyMap
+Apple,2025,emissions_tCO2e,1695149,tons,CDP
+Apple,2025,scope_1_emissions,979328,tons,CDP
+Apple,2025,scope_2_emissions,715821,tons,CDP
+Apple,2025,renewable_energy_percent,97.1,%,Sustainability Report
+Apple,2025,climate_policy_score,C,,LobbyMap
+Tesla,2020,emissions_tCO2e,3142338,tons,CDP
+Tesla,2020,scope_1_emissions,1901962,tons,CDP
+Tesla,2020,scope_2_emissions,1240376,tons,CDP
+Tesla,2020,renewable_energy_percent,12.7,%,Sustainability Report
+Tesla,2020,climate_policy_score,D,,LobbyMap
+Tesla,2021,emissions_tCO2e,3088200,tons,CDP
+Tesla,2021,scope_1_emissions,1694041,tons,CDP
+Tesla,2021,scope_2_emissions,1394159,tons,CDP
+Tesla,2021,renewable_energy_percent,24.5,%,Sustainability Report
+Tesla,2021,climate_policy_score,D,,LobbyMap
+Tesla,2022,emissions_tCO2e,3028300,tons,CDP
+Tesla,2022,scope_1_emissions,1708000,tons,CDP
+Tesla,2022,scope_2_emissions,1320300,tons,CDP
+Tesla,2022,renewable_energy_percent,28.5,%,Sustainability Report
+Tesla,2022,climate_policy_score,C,,LobbyMap
+Tesla,2023,emissions_tCO2e,2995665,tons,CDP
+Tesla,2023,scope_1_emissions,2026753,tons,CDP
+Tesla,2023,scope_2_emissions,968912,tons,CDP
+Tesla,2023,renewable_energy_percent,41.8,%,Sustainability Report
+Tesla,2023,climate_policy_score,C,,LobbyMap
+Tesla,2024,emissions_tCO2e,2704697,tons,CDP
+Tesla,2024,scope_1_emissions,1754323,tons,CDP
+Tesla,2024,scope_2_emissions,950374,tons,CDP
+Tesla,2024,renewable_energy_percent,50.2,%,Sustainability Report
+Tesla,2024,climate_policy_score,D,,LobbyMap
+Tesla,2025,emissions_tCO2e,2672164,tons,CDP
+Tesla,2025,scope_1_emissions,1503917,tons,CDP
+Tesla,2025,scope_2_emissions,1168247,tons,CDP
+Tesla,2025,renewable_energy_percent,61.9,%,Sustainability Report
+Tesla,2025,climate_policy_score,C,,LobbyMap
+Shell,2020,emissions_tCO2e,77327239,tons,CDP
+Shell,2020,scope_1_emissions,47842529,tons,CDP
+Shell,2020,scope_2_emissions,29484710,tons,CDP
+Shell,2020,renewable_energy_percent,61.1,%,Sustainability Report
+Shell,2020,climate_policy_score,D,,LobbyMap
+Shell,2021,emissions_tCO2e,73452298,tons,CDP
+Shell,2021,scope_1_emissions,48399998,tons,CDP
+Shell,2021,scope_2_emissions,25052300,tons,CDP
+Shell,2021,renewable_energy_percent,64.5,%,Sustainability Report
+Shell,2021,climate_policy_score,C,,LobbyMap
+Shell,2022,emissions_tCO2e,71939979,tons,CDP
+Shell,2022,scope_1_emissions,35794096,tons,CDP
+Shell,2022,scope_2_emissions,36145883,tons,CDP
+Shell,2022,renewable_energy_percent,74.9,%,Sustainability Report
+Shell,2022,climate_policy_score,C,,LobbyMap
+Shell,2023,emissions_tCO2e,73426298,tons,CDP
+Shell,2023,scope_1_emissions,48913943,tons,CDP
+Shell,2023,scope_2_emissions,24512355,tons,CDP
+Shell,2023,renewable_energy_percent,81.8,%,Sustainability Report
+Shell,2023,climate_policy_score,C,,LobbyMap
+Shell,2024,emissions_tCO2e,70837919,tons,CDP
+Shell,2024,scope_1_emissions,40263080,tons,CDP
+Shell,2024,scope_2_emissions,30574839,tons,CDP
+Shell,2024,renewable_energy_percent,93.6,%,Sustainability Report
+Shell,2024,climate_policy_score,C,,LobbyMap
+Shell,2025,emissions_tCO2e,70296140,tons,CDP
+Shell,2025,scope_1_emissions,39142286,tons,CDP
+Shell,2025,scope_2_emissions,31153854,tons,CDP
+Shell,2025,renewable_energy_percent,99.4,%,Sustainability Report
+Shell,2025,climate_policy_score,C,,LobbyMap
+BP,2020,emissions_tCO2e,72198203,tons,CDP
+BP,2020,scope_1_emissions,48536681,tons,CDP
+BP,2020,scope_2_emissions,23661522,tons,CDP
+BP,2020,renewable_energy_percent,7.6,%,Sustainability Report
+BP,2020,climate_policy_score,D,,LobbyMap
+BP,2021,emissions_tCO2e,66950083,tons,CDP
+BP,2021,scope_1_emissions,41955296,tons,CDP
+BP,2021,scope_2_emissions,24994787,tons,CDP
+BP,2021,renewable_energy_percent,17.0,%,Sustainability Report
+BP,2021,climate_policy_score,D,,LobbyMap
+BP,2022,emissions_tCO2e,70112242,tons,CDP
+BP,2022,scope_1_emissions,44949072,tons,CDP
+BP,2022,scope_2_emissions,25163170,tons,CDP
+BP,2022,renewable_energy_percent,26.4,%,Sustainability Report
+BP,2022,climate_policy_score,C,,LobbyMap
+BP,2023,emissions_tCO2e,66781643,tons,CDP
+BP,2023,scope_1_emissions,44665391,tons,CDP
+BP,2023,scope_2_emissions,22116252,tons,CDP
+BP,2023,renewable_energy_percent,31.4,%,Sustainability Report
+BP,2023,climate_policy_score,D,,LobbyMap
+BP,2024,emissions_tCO2e,63912327,tons,CDP
+BP,2024,scope_1_emissions,41249298,tons,CDP
+BP,2024,scope_2_emissions,22663029,tons,CDP
+BP,2024,renewable_energy_percent,37.0,%,Sustainability Report
+BP,2024,climate_policy_score,F,,LobbyMap
+BP,2025,emissions_tCO2e,63613595,tons,CDP
+BP,2025,scope_1_emissions,29684160,tons,CDP
+BP,2025,scope_2_emissions,33929435,tons,CDP
+BP,2025,renewable_energy_percent,46.3,%,Sustainability Report
+BP,2025,climate_policy_score,D,,LobbyMap
+Amazon,2020,emissions_tCO2e,48585414,tons,CDP
+Amazon,2020,scope_1_emissions,33598496,tons,CDP
+Amazon,2020,scope_2_emissions,14986918,tons,CDP
+Amazon,2020,renewable_energy_percent,29.0,%,Sustainability Report
+Amazon,2020,climate_policy_score,F,,LobbyMap
+Amazon,2021,emissions_tCO2e,46134545,tons,CDP
+Amazon,2021,scope_1_emissions,22396113,tons,CDP
+Amazon,2021,scope_2_emissions,23738432,tons,CDP
+Amazon,2021,renewable_energy_percent,32.5,%,Sustainability Report
+Amazon,2021,climate_policy_score,D,,LobbyMap
+Amazon,2022,emissions_tCO2e,41792583,tons,CDP
+Amazon,2022,scope_1_emissions,20210639,tons,CDP
+Amazon,2022,scope_2_emissions,21581944,tons,CDP
+Amazon,2022,renewable_energy_percent,38.5,%,Sustainability Report
+Amazon,2022,climate_policy_score,D,,LobbyMap
+Amazon,2023,emissions_tCO2e,39727078,tons,CDP
+Amazon,2023,scope_1_emissions,17617706,tons,CDP
+Amazon,2023,scope_2_emissions,22109372,tons,CDP
+Amazon,2023,renewable_energy_percent,45.3,%,Sustainability Report
+Amazon,2023,climate_policy_score,D,,LobbyMap
+Amazon,2024,emissions_tCO2e,37192978,tons,CDP
+Amazon,2024,scope_1_emissions,23375261,tons,CDP
+Amazon,2024,scope_2_emissions,13817717,tons,CDP
+Amazon,2024,renewable_energy_percent,48.5,%,Sustainability Report
+Amazon,2024,climate_policy_score,C,,LobbyMap
+Amazon,2025,emissions_tCO2e,32656245,tons,CDP
+Amazon,2025,scope_1_emissions,16665622,tons,CDP
+Amazon,2025,scope_2_emissions,15990623,tons,CDP
+Amazon,2025,renewable_energy_percent,59.7,%,Sustainability Report
+Amazon,2025,climate_policy_score,C,,LobbyMap
+Microsoft,2020,emissions_tCO2e,4851419,tons,CDP
+Microsoft,2020,scope_1_emissions,1999912,tons,CDP
+Microsoft,2020,scope_2_emissions,2851507,tons,CDP
+Microsoft,2020,renewable_energy_percent,13.4,%,Sustainability Report
+Microsoft,2020,climate_policy_score,C,,LobbyMap
+Microsoft,2021,emissions_tCO2e,4863472,tons,CDP
+Microsoft,2021,scope_1_emissions,1969591,tons,CDP
+Microsoft,2021,scope_2_emissions,2893881,tons,CDP
+Microsoft,2021,renewable_energy_percent,20.1,%,Sustainability Report
+Microsoft,2021,climate_policy_score,D,,LobbyMap
+Microsoft,2022,emissions_tCO2e,4348971,tons,CDP
+Microsoft,2022,scope_1_emissions,2641048,tons,CDP
+Microsoft,2022,scope_2_emissions,1707923,tons,CDP
+Microsoft,2022,renewable_energy_percent,32.8,%,Sustainability Report
+Microsoft,2022,climate_policy_score,C,,LobbyMap
+Microsoft,2023,emissions_tCO2e,4237325,tons,CDP
+Microsoft,2023,scope_1_emissions,1869746,tons,CDP
+Microsoft,2023,scope_2_emissions,2367579,tons,CDP
+Microsoft,2023,renewable_energy_percent,39.0,%,Sustainability Report
+Microsoft,2023,climate_policy_score,D,,LobbyMap
+Microsoft,2024,emissions_tCO2e,4134346,tons,CDP
+Microsoft,2024,scope_1_emissions,2667342,tons,CDP
+Microsoft,2024,scope_2_emissions,1467004,tons,CDP
+Microsoft,2024,renewable_energy_percent,46.8,%,Sustainability Report
+Microsoft,2024,climate_policy_score,C,,LobbyMap
+Microsoft,2025,emissions_tCO2e,4116792,tons,CDP
+Microsoft,2025,scope_1_emissions,1945413,tons,CDP
+Microsoft,2025,scope_2_emissions,2171379,tons,CDP
+Microsoft,2025,renewable_energy_percent,58.4,%,Sustainability Report
+Microsoft,2025,climate_policy_score,C,,LobbyMap
+Google,2020,emissions_tCO2e,4583381,tons,CDP
+Google,2020,scope_1_emissions,1949046,tons,CDP
+Google,2020,scope_2_emissions,2634335,tons,CDP
+Google,2020,renewable_energy_percent,29.9,%,Sustainability Report
+Google,2020,climate_policy_score,C,,LobbyMap
+Google,2021,emissions_tCO2e,4225914,tons,CDP
+Google,2021,scope_1_emissions,1696782,tons,CDP
+Google,2021,scope_2_emissions,2529132,tons,CDP
+Google,2021,renewable_energy_percent,35.6,%,Sustainability Report
+Google,2021,climate_policy_score,D,,LobbyMap
+Google,2022,emissions_tCO2e,4274710,tons,CDP
+Google,2022,scope_1_emissions,1997489,tons,CDP
+Google,2022,scope_2_emissions,2277221,tons,CDP
+Google,2022,renewable_energy_percent,45.7,%,Sustainability Report
+Google,2022,climate_policy_score,D,,LobbyMap
+Google,2023,emissions_tCO2e,4070969,tons,CDP
+Google,2023,scope_1_emissions,2025795,tons,CDP
+Google,2023,scope_2_emissions,2045174,tons,CDP
+Google,2023,renewable_energy_percent,52.4,%,Sustainability Report
+Google,2023,climate_policy_score,C,,LobbyMap
+Google,2024,emissions_tCO2e,3865222,tons,CDP
+Google,2024,scope_1_emissions,2205080,tons,CDP
+Google,2024,scope_2_emissions,1660142,tons,CDP
+Google,2024,renewable_energy_percent,60.6,%,Sustainability Report
+Google,2024,climate_policy_score,C,,LobbyMap
+Google,2025,emissions_tCO2e,3579829,tons,CDP
+Google,2025,scope_1_emissions,1716745,tons,CDP
+Google,2025,scope_2_emissions,1863084,tons,CDP
+Google,2025,renewable_energy_percent,68.3,%,Sustainability Report
+Google,2025,climate_policy_score,C,,LobbyMap
+Unilever,2020,emissions_tCO2e,5952361,tons,CDP
+Unilever,2020,scope_1_emissions,2729591,tons,CDP
+Unilever,2020,scope_2_emissions,3222770,tons,CDP
+Unilever,2020,renewable_energy_percent,55.2,%,Sustainability Report
+Unilever,2020,climate_policy_score,D,,LobbyMap
+Unilever,2021,emissions_tCO2e,5818503,tons,CDP
+Unilever,2021,scope_1_emissions,2369845,tons,CDP
+Unilever,2021,scope_2_emissions,3448658,tons,CDP
+Unilever,2021,renewable_energy_percent,53.6,%,Sustainability Report
+Unilever,2021,climate_policy_score,C,,LobbyMap
+Unilever,2022,emissions_tCO2e,5289969,tons,CDP
+Unilever,2022,scope_1_emissions,2140517,tons,CDP
+Unilever,2022,scope_2_emissions,3149452,tons,CDP
+Unilever,2022,renewable_energy_percent,63.2,%,Sustainability Report
+Unilever,2022,climate_policy_score,C,,LobbyMap
+Unilever,2023,emissions_tCO2e,5128924,tons,CDP
+Unilever,2023,scope_1_emissions,3538939,tons,CDP
+Unilever,2023,scope_2_emissions,1589985,tons,CDP
+Unilever,2023,renewable_energy_percent,66.1,%,Sustainability Report
+Unilever,2023,climate_policy_score,D,,LobbyMap
+Unilever,2024,emissions_tCO2e,4663809,tons,CDP
+Unilever,2024,scope_1_emissions,2102668,tons,CDP
+Unilever,2024,scope_2_emissions,2561141,tons,CDP
+Unilever,2024,renewable_energy_percent,75.5,%,Sustainability Report
+Unilever,2024,climate_policy_score,C,,LobbyMap
+Unilever,2025,emissions_tCO2e,4465936,tons,CDP
+Unilever,2025,scope_1_emissions,2718901,tons,CDP
+Unilever,2025,scope_2_emissions,1747035,tons,CDP
+Unilever,2025,renewable_energy_percent,78.1,%,Sustainability Report
+Unilever,2025,climate_policy_score,C,,LobbyMap
+Nestlé,2020,emissions_tCO2e,7222058,tons,CDP
+Nestlé,2020,scope_1_emissions,4493785,tons,CDP
+Nestlé,2020,scope_2_emissions,2728273,tons,CDP
+Nestlé,2020,renewable_energy_percent,59.6,%,Sustainability Report
+Nestlé,2020,climate_policy_score,C,,LobbyMap
+Nestlé,2021,emissions_tCO2e,6810403,tons,CDP
+Nestlé,2021,scope_1_emissions,3458645,tons,CDP
+Nestlé,2021,scope_2_emissions,3351758,tons,CDP
+Nestlé,2021,renewable_energy_percent,64.4,%,Sustainability Report
+Nestlé,2021,climate_policy_score,D,,LobbyMap
+Nestlé,2022,emissions_tCO2e,6282923,tons,CDP
+Nestlé,2022,scope_1_emissions,4234515,tons,CDP
+Nestlé,2022,scope_2_emissions,2048408,tons,CDP
+Nestlé,2022,renewable_energy_percent,66.3,%,Sustainability Report
+Nestlé,2022,climate_policy_score,C,,LobbyMap
+Nestlé,2023,emissions_tCO2e,6550465,tons,CDP
+Nestlé,2023,scope_1_emissions,4188947,tons,CDP
+Nestlé,2023,scope_2_emissions,2361518,tons,CDP
+Nestlé,2023,renewable_energy_percent,71.5,%,Sustainability Report
+Nestlé,2023,climate_policy_score,C,,LobbyMap
+Nestlé,2024,emissions_tCO2e,5576276,tons,CDP
+Nestlé,2024,scope_1_emissions,2795936,tons,CDP
+Nestlé,2024,scope_2_emissions,2780340,tons,CDP
+Nestlé,2024,renewable_energy_percent,72.3,%,Sustainability Report
+Nestlé,2024,climate_policy_score,D,,LobbyMap
+Nestlé,2025,emissions_tCO2e,5185483,tons,CDP
+Nestlé,2025,scope_1_emissions,2973791,tons,CDP
+Nestlé,2025,scope_2_emissions,2211692,tons,CDP
+Nestlé,2025,renewable_energy_percent,75.0,%,Sustainability Report
+Nestlé,2025,climate_policy_score,C,,LobbyMap
+Toyota,2020,emissions_tCO2e,39433681,tons,CDP
+Toyota,2020,scope_1_emissions,17276611,tons,CDP
+Toyota,2020,scope_2_emissions,22157070,tons,CDP
+Toyota,2020,renewable_energy_percent,26.5,%,Sustainability Report
+Toyota,2020,climate_policy_score,C,,LobbyMap
+Toyota,2021,emissions_tCO2e,38043806,tons,CDP
+Toyota,2021,scope_1_emissions,17680718,tons,CDP
+Toyota,2021,scope_2_emissions,20363088,tons,CDP
+Toyota,2021,renewable_energy_percent,29.6,%,Sustainability Report
+Toyota,2021,climate_policy_score,C,,LobbyMap
+Toyota,2022,emissions_tCO2e,35954891,tons,CDP
+Toyota,2022,scope_1_emissions,20213499,tons,CDP
+Toyota,2022,scope_2_emissions,15741392,tons,CDP
+Toyota,2022,renewable_energy_percent,36.5,%,Sustainability Report
+Toyota,2022,climate_policy_score,C,,LobbyMap
+Toyota,2023,emissions_tCO2e,34864445,tons,CDP
+Toyota,2023,scope_1_emissions,24152540,tons,CDP
+Toyota,2023,scope_2_emissions,10711905,tons,CDP
+Toyota,2023,renewable_energy_percent,40.5,%,Sustainability Report
+Toyota,2023,climate_policy_score,C,,LobbyMap
+Toyota,2024,emissions_tCO2e,31590771,tons,CDP
+Toyota,2024,scope_1_emissions,16796542,tons,CDP
+Toyota,2024,scope_2_emissions,14794229,tons,CDP
+Toyota,2024,renewable_energy_percent,52.9,%,Sustainability Report
+Toyota,2024,climate_policy_score,D,,LobbyMap
+Toyota,2025,emissions_tCO2e,32058583,tons,CDP
+Toyota,2025,scope_1_emissions,14490104,tons,CDP
+Toyota,2025,scope_2_emissions,17568479,tons,CDP
+Toyota,2025,renewable_energy_percent,57.0,%,Sustainability Report
+Toyota,2025,climate_policy_score,D,,LobbyMap
+ExxonMobil,2020,emissions_tCO2e,101131888,tons,CDP
+ExxonMobil,2020,scope_1_emissions,59012097,tons,CDP
+ExxonMobil,2020,scope_2_emissions,42119791,tons,CDP
+ExxonMobil,2020,renewable_energy_percent,49.0,%,Sustainability Report
+ExxonMobil,2020,climate_policy_score,D,,LobbyMap
+ExxonMobil,2021,emissions_tCO2e,93328863,tons,CDP
+ExxonMobil,2021,scope_1_emissions,47298302,tons,CDP
+ExxonMobil,2021,scope_2_emissions,46030561,tons,CDP
+ExxonMobil,2021,renewable_energy_percent,52.5,%,Sustainability Report
+ExxonMobil,2021,climate_policy_score,B,,LobbyMap
+ExxonMobil,2022,emissions_tCO2e,89637375,tons,CDP
+ExxonMobil,2022,scope_1_emissions,48587180,tons,CDP
+ExxonMobil,2022,scope_2_emissions,41050195,tons,CDP
+ExxonMobil,2022,renewable_energy_percent,58.4,%,Sustainability Report
+ExxonMobil,2022,climate_policy_score,C,,LobbyMap
+ExxonMobil,2023,emissions_tCO2e,81760684,tons,CDP
+ExxonMobil,2023,scope_1_emissions,42478879,tons,CDP
+ExxonMobil,2023,scope_2_emissions,39281805,tons,CDP
+ExxonMobil,2023,renewable_energy_percent,70.7,%,Sustainability Report
+ExxonMobil,2023,climate_policy_score,B,,LobbyMap
+ExxonMobil,2024,emissions_tCO2e,80132508,tons,CDP
+ExxonMobil,2024,scope_1_emissions,47098520,tons,CDP
+ExxonMobil,2024,scope_2_emissions,33033988,tons,CDP
+ExxonMobil,2024,renewable_energy_percent,73.9,%,Sustainability Report
+ExxonMobil,2024,climate_policy_score,C,,LobbyMap
+ExxonMobil,2025,emissions_tCO2e,76206074,tons,CDP
+ExxonMobil,2025,scope_1_emissions,45541366,tons,CDP
+ExxonMobil,2025,scope_2_emissions,30664708,tons,CDP
+ExxonMobil,2025,renewable_energy_percent,81.7,%,Sustainability Report
+ExxonMobil,2025,climate_policy_score,C,,LobbyMap
+Samsung,2020,emissions_tCO2e,10475805,tons,CDP
+Samsung,2020,scope_1_emissions,5630492,tons,CDP
+Samsung,2020,scope_2_emissions,4845313,tons,CDP
+Samsung,2020,renewable_energy_percent,54.5,%,Sustainability Report
+Samsung,2020,climate_policy_score,C,,LobbyMap
+Samsung,2021,emissions_tCO2e,9468652,tons,CDP
+Samsung,2021,scope_1_emissions,4884222,tons,CDP
+Samsung,2021,scope_2_emissions,4584430,tons,CDP
+Samsung,2021,renewable_energy_percent,64.2,%,Sustainability Report
+Samsung,2021,climate_policy_score,D,,LobbyMap
+Samsung,2022,emissions_tCO2e,8871740,tons,CDP
+Samsung,2022,scope_1_emissions,5797350,tons,CDP
+Samsung,2022,scope_2_emissions,3074390,tons,CDP
+Samsung,2022,renewable_energy_percent,69.2,%,Sustainability Report
+Samsung,2022,climate_policy_score,C,,LobbyMap
+Samsung,2023,emissions_tCO2e,8345202,tons,CDP
+Samsung,2023,scope_1_emissions,5082404,tons,CDP
+Samsung,2023,scope_2_emissions,3262798,tons,CDP
+Samsung,2023,renewable_energy_percent,78.6,%,Sustainability Report
+Samsung,2023,climate_policy_score,C,,LobbyMap
+Samsung,2024,emissions_tCO2e,8164346,tons,CDP
+Samsung,2024,scope_1_emissions,3956526,tons,CDP
+Samsung,2024,scope_2_emissions,4207820,tons,CDP
+Samsung,2024,renewable_energy_percent,84.7,%,Sustainability Report
+Samsung,2024,climate_policy_score,C,,LobbyMap
+Samsung,2025,emissions_tCO2e,7370045,tons,CDP
+Samsung,2025,scope_1_emissions,4731940,tons,CDP
+Samsung,2025,scope_2_emissions,2638105,tons,CDP
+Samsung,2025,renewable_energy_percent,90.0,%,Sustainability Report
+Samsung,2025,climate_policy_score,C,,LobbyMap
+Meta,2020,emissions_tCO2e,3977026,tons,CDP
+Meta,2020,scope_1_emissions,2491061,tons,CDP
+Meta,2020,scope_2_emissions,1485965,tons,CDP
+Meta,2020,renewable_energy_percent,47.9,%,Sustainability Report
+Meta,2020,climate_policy_score,C,,LobbyMap
+Meta,2021,emissions_tCO2e,3641472,tons,CDP
+Meta,2021,scope_1_emissions,1806224,tons,CDP
+Meta,2021,scope_2_emissions,1835248,tons,CDP
+Meta,2021,renewable_energy_percent,53.1,%,Sustainability Report
+Meta,2021,climate_policy_score,C,,LobbyMap
+Meta,2022,emissions_tCO2e,3456827,tons,CDP
+Meta,2022,scope_1_emissions,2367990,tons,CDP
+Meta,2022,scope_2_emissions,1088837,tons,CDP
+Meta,2022,renewable_energy_percent,57.0,%,Sustainability Report
+Meta,2022,climate_policy_score,C,,LobbyMap
+Meta,2023,emissions_tCO2e,3397262,tons,CDP
+Meta,2023,scope_1_emissions,2002859,tons,CDP
+Meta,2023,scope_2_emissions,1394403,tons,CDP
+Meta,2023,renewable_energy_percent,59.4,%,Sustainability Report
+Meta,2023,climate_policy_score,C,,LobbyMap
+Meta,2024,emissions_tCO2e,3311959,tons,CDP
+Meta,2024,scope_1_emissions,2072333,tons,CDP
+Meta,2024,scope_2_emissions,1239626,tons,CDP
+Meta,2024,renewable_energy_percent,65.3,%,Sustainability Report
+Meta,2024,climate_policy_score,C,,LobbyMap
+Meta,2025,emissions_tCO2e,3118843,tons,CDP
+Meta,2025,scope_1_emissions,1332874,tons,CDP
+Meta,2025,scope_2_emissions,1785969,tons,CDP
+Meta,2025,renewable_energy_percent,71.1,%,Sustainability Report
+Meta,2025,climate_policy_score,C,,LobbyMap
+Siemens,2020,emissions_tCO2e,7801880,tons,CDP
+Siemens,2020,scope_1_emissions,3455433,tons,CDP
+Siemens,2020,scope_2_emissions,4346447,tons,CDP
+Siemens,2020,renewable_energy_percent,31.4,%,Sustainability Report
+Siemens,2020,climate_policy_score,C,,LobbyMap
+Siemens,2021,emissions_tCO2e,7884854,tons,CDP
+Siemens,2021,scope_1_emissions,3393142,tons,CDP
+Siemens,2021,scope_2_emissions,4491712,tons,CDP
+Siemens,2021,renewable_energy_percent,41.7,%,Sustainability Report
+Siemens,2021,climate_policy_score,D,,LobbyMap
+Siemens,2022,emissions_tCO2e,7073510,tons,CDP
+Siemens,2022,scope_1_emissions,3009434,tons,CDP
+Siemens,2022,scope_2_emissions,4064076,tons,CDP
+Siemens,2022,renewable_energy_percent,50.7,%,Sustainability Report
+Siemens,2022,climate_policy_score,C,,LobbyMap
+Siemens,2023,emissions_tCO2e,6697521,tons,CDP
+Siemens,2023,scope_1_emissions,4582273,tons,CDP
+Siemens,2023,scope_2_emissions,2115248,tons,CDP
+Siemens,2023,renewable_energy_percent,57.9,%,Sustainability Report
+Siemens,2023,climate_policy_score,C,,LobbyMap
+Siemens,2024,emissions_tCO2e,6494919,tons,CDP
+Siemens,2024,scope_1_emissions,3424553,tons,CDP
+Siemens,2024,scope_2_emissions,3070366,tons,CDP
+Siemens,2024,renewable_energy_percent,71.4,%,Sustainability Report
+Siemens,2024,climate_policy_score,C,,LobbyMap
+Siemens,2025,emissions_tCO2e,6093197,tons,CDP
+Siemens,2025,scope_1_emissions,3293971,tons,CDP
+Siemens,2025,scope_2_emissions,2799226,tons,CDP
+Siemens,2025,renewable_energy_percent,78.2,%,Sustainability Report
+Siemens,2025,climate_policy_score,C,,LobbyMap
+Coca-Cola,2020,emissions_tCO2e,5261474,tons,CDP
+Coca-Cola,2020,scope_1_emissions,3475623,tons,CDP
+Coca-Cola,2020,scope_2_emissions,1785851,tons,CDP
+Coca-Cola,2020,renewable_energy_percent,37.5,%,Sustainability Report
+Coca-Cola,2020,climate_policy_score,C,,LobbyMap
+Coca-Cola,2021,emissions_tCO2e,5145748,tons,CDP
+Coca-Cola,2021,scope_1_emissions,2172220,tons,CDP
+Coca-Cola,2021,scope_2_emissions,2973528,tons,CDP
+Coca-Cola,2021,renewable_energy_percent,49.8,%,Sustainability Report
+Coca-Cola,2021,climate_policy_score,C,,LobbyMap
+Coca-Cola,2022,emissions_tCO2e,5139117,tons,CDP
+Coca-Cola,2022,scope_1_emissions,3128306,tons,CDP
+Coca-Cola,2022,scope_2_emissions,2010811,tons,CDP
+Coca-Cola,2022,renewable_energy_percent,59.4,%,Sustainability Report
+Coca-Cola,2022,climate_policy_score,B,,LobbyMap
+Coca-Cola,2023,emissions_tCO2e,4395554,tons,CDP
+Coca-Cola,2023,scope_1_emissions,2528737,tons,CDP
+Coca-Cola,2023,scope_2_emissions,1866817,tons,CDP
+Coca-Cola,2023,renewable_energy_percent,68.0,%,Sustainability Report
+Coca-Cola,2023,climate_policy_score,C,,LobbyMap
+Coca-Cola,2024,emissions_tCO2e,4024353,tons,CDP
+Coca-Cola,2024,scope_1_emissions,1836860,tons,CDP
+Coca-Cola,2024,scope_2_emissions,2187493,tons,CDP
+Coca-Cola,2024,renewable_energy_percent,79.5,%,Sustainability Report
+Coca-Cola,2024,climate_policy_score,D,,LobbyMap
+Coca-Cola,2025,emissions_tCO2e,3873176,tons,CDP
+Coca-Cola,2025,scope_1_emissions,2227451,tons,CDP
+Coca-Cola,2025,scope_2_emissions,1645725,tons,CDP
+Coca-Cola,2025,renewable_energy_percent,83.8,%,Sustainability Report
+Coca-Cola,2025,climate_policy_score,C,,LobbyMap
+PepsiCo,2020,emissions_tCO2e,5762358,tons,CDP
+PepsiCo,2020,scope_1_emissions,3917357,tons,CDP
+PepsiCo,2020,scope_2_emissions,1845001,tons,CDP
+PepsiCo,2020,renewable_energy_percent,47.9,%,Sustainability Report
+PepsiCo,2020,climate_policy_score,D,,LobbyMap
+PepsiCo,2021,emissions_tCO2e,5539730,tons,CDP
+PepsiCo,2021,scope_1_emissions,3562965,tons,CDP
+PepsiCo,2021,scope_2_emissions,1976765,tons,CDP
+PepsiCo,2021,renewable_energy_percent,44.1,%,Sustainability Report
+PepsiCo,2021,climate_policy_score,C,,LobbyMap
+PepsiCo,2022,emissions_tCO2e,5184614,tons,CDP
+PepsiCo,2022,scope_1_emissions,2719049,tons,CDP
+PepsiCo,2022,scope_2_emissions,2465565,tons,CDP
+PepsiCo,2022,renewable_energy_percent,53.3,%,Sustainability Report
+PepsiCo,2022,climate_policy_score,C,,LobbyMap
+PepsiCo,2023,emissions_tCO2e,4836351,tons,CDP
+PepsiCo,2023,scope_1_emissions,3189170,tons,CDP
+PepsiCo,2023,scope_2_emissions,1647181,tons,CDP
+PepsiCo,2023,renewable_energy_percent,54.1,%,Sustainability Report
+PepsiCo,2023,climate_policy_score,C,,LobbyMap
+PepsiCo,2024,emissions_tCO2e,4450078,tons,CDP
+PepsiCo,2024,scope_1_emissions,2381518,tons,CDP
+PepsiCo,2024,scope_2_emissions,2068560,tons,CDP
+PepsiCo,2024,renewable_energy_percent,58.7,%,Sustainability Report
+PepsiCo,2024,climate_policy_score,D,,LobbyMap
+PepsiCo,2025,emissions_tCO2e,4267984,tons,CDP
+PepsiCo,2025,scope_1_emissions,2567235,tons,CDP
+PepsiCo,2025,scope_2_emissions,1700749,tons,CDP
+PepsiCo,2025,renewable_energy_percent,57.7,%,Sustainability Report
+PepsiCo,2025,climate_policy_score,C,,LobbyMap
+IBM,2020,emissions_tCO2e,2508614,tons,CDP
+IBM,2020,scope_1_emissions,1644783,tons,CDP
+IBM,2020,scope_2_emissions,863831,tons,CDP
+IBM,2020,renewable_energy_percent,46.7,%,Sustainability Report
+IBM,2020,climate_policy_score,B,,LobbyMap
+IBM,2021,emissions_tCO2e,2561086,tons,CDP
+IBM,2021,scope_1_emissions,1697989,tons,CDP
+IBM,2021,scope_2_emissions,863097,tons,CDP
+IBM,2021,renewable_energy_percent,47.7,%,Sustainability Report
+IBM,2021,climate_policy_score,C,,LobbyMap
+IBM,2022,emissions_tCO2e,2473499,tons,CDP
+IBM,2022,scope_1_emissions,1147429,tons,CDP
+IBM,2022,scope_2_emissions,1326070,tons,CDP
+IBM,2022,renewable_energy_percent,57.7,%,Sustainability Report
+IBM,2022,climate_policy_score,C,,LobbyMap
+IBM,2023,emissions_tCO2e,2182666,tons,CDP
+IBM,2023,scope_1_emissions,1129907,tons,CDP
+IBM,2023,scope_2_emissions,1052759,tons,CDP
+IBM,2023,renewable_energy_percent,63.8,%,Sustainability Report
+IBM,2023,climate_policy_score,C,,LobbyMap
+IBM,2024,emissions_tCO2e,2255922,tons,CDP
+IBM,2024,scope_1_emissions,1432726,tons,CDP
+IBM,2024,scope_2_emissions,823196,tons,CDP
+IBM,2024,renewable_energy_percent,63.9,%,Sustainability Report
+IBM,2024,climate_policy_score,B,,LobbyMap
+IBM,2025,emissions_tCO2e,2091975,tons,CDP
+IBM,2025,scope_1_emissions,1378002,tons,CDP
+IBM,2025,scope_2_emissions,713973,tons,CDP
+IBM,2025,renewable_energy_percent,74.4,%,Sustainability Report
+IBM,2025,climate_policy_score,C,,LobbyMap
+TotalEnergies,2020,emissions_tCO2e,79728022,tons,CDP
+TotalEnergies,2020,scope_1_emissions,47041147,tons,CDP
+TotalEnergies,2020,scope_2_emissions,32686875,tons,CDP
+TotalEnergies,2020,renewable_energy_percent,32.8,%,Sustainability Report
+TotalEnergies,2020,climate_policy_score,D,,LobbyMap
+TotalEnergies,2021,emissions_tCO2e,81797745,tons,CDP
+TotalEnergies,2021,scope_1_emissions,35881719,tons,CDP
+TotalEnergies,2021,scope_2_emissions,45916026,tons,CDP
+TotalEnergies,2021,renewable_energy_percent,43.5,%,Sustainability Report
+TotalEnergies,2021,climate_policy_score,D,,LobbyMap
+TotalEnergies,2022,emissions_tCO2e,77854006,tons,CDP
+TotalEnergies,2022,scope_1_emissions,52087173,tons,CDP
+TotalEnergies,2022,scope_2_emissions,25766833,tons,CDP
+TotalEnergies,2022,renewable_energy_percent,50.5,%,Sustainability Report
+TotalEnergies,2022,climate_policy_score,B,,LobbyMap
+TotalEnergies,2023,emissions_tCO2e,75535634,tons,CDP
+TotalEnergies,2023,scope_1_emissions,34119140,tons,CDP
+TotalEnergies,2023,scope_2_emissions,41416494,tons,CDP
+TotalEnergies,2023,renewable_energy_percent,61.4,%,Sustainability Report
+TotalEnergies,2023,climate_policy_score,D,,LobbyMap
+TotalEnergies,2024,emissions_tCO2e,73323087,tons,CDP
+TotalEnergies,2024,scope_1_emissions,33867942,tons,CDP
+TotalEnergies,2024,scope_2_emissions,39455145,tons,CDP
+TotalEnergies,2024,renewable_energy_percent,70.2,%,Sustainability Report
+TotalEnergies,2024,climate_policy_score,C,,LobbyMap
+TotalEnergies,2025,emissions_tCO2e,66089487,tons,CDP
+TotalEnergies,2025,scope_1_emissions,40124146,tons,CDP
+TotalEnergies,2025,scope_2_emissions,25965341,tons,CDP
+TotalEnergies,2025,renewable_energy_percent,80.8,%,Sustainability Report
+TotalEnergies,2025,climate_policy_score,C,,LobbyMap
+Walmart,2020,emissions_tCO2e,61532437,tons,CDP
+Walmart,2020,scope_1_emissions,38425647,tons,CDP
+Walmart,2020,scope_2_emissions,23106790,tons,CDP
+Walmart,2020,renewable_energy_percent,54.8,%,Sustainability Report
+Walmart,2020,climate_policy_score,D,,LobbyMap
+Walmart,2021,emissions_tCO2e,54693700,tons,CDP
+Walmart,2021,scope_1_emissions,27956227,tons,CDP
+Walmart,2021,scope_2_emissions,26737473,tons,CDP
+Walmart,2021,renewable_energy_percent,63.3,%,Sustainability Report
+Walmart,2021,climate_policy_score,C,,LobbyMap
+Walmart,2022,emissions_tCO2e,50654540,tons,CDP
+Walmart,2022,scope_1_emissions,31620654,tons,CDP
+Walmart,2022,scope_2_emissions,19033886,tons,CDP
+Walmart,2022,renewable_energy_percent,56.6,%,Sustainability Report
+Walmart,2022,climate_policy_score,C,,LobbyMap
+Walmart,2023,emissions_tCO2e,48333607,tons,CDP
+Walmart,2023,scope_1_emissions,26752807,tons,CDP
+Walmart,2023,scope_2_emissions,21580800,tons,CDP
+Walmart,2023,renewable_energy_percent,61.6,%,Sustainability Report
+Walmart,2023,climate_policy_score,C,,LobbyMap
+Walmart,2024,emissions_tCO2e,46449325,tons,CDP
+Walmart,2024,scope_1_emissions,21958507,tons,CDP
+Walmart,2024,scope_2_emissions,24490818,tons,CDP
+Walmart,2024,renewable_energy_percent,61.1,%,Sustainability Report
+Walmart,2024,climate_policy_score,D,,LobbyMap
+Walmart,2025,emissions_tCO2e,39444208,tons,CDP
+Walmart,2025,scope_1_emissions,16015190,tons,CDP
+Walmart,2025,scope_2_emissions,23429018,tons,CDP
+Walmart,2025,renewable_energy_percent,66.4,%,Sustainability Report
+Walmart,2025,climate_policy_score,D,,LobbyMap
+Honda,2020,emissions_tCO2e,31518427,tons,CDP
+Honda,2020,scope_1_emissions,20069401,tons,CDP
+Honda,2020,scope_2_emissions,11449026,tons,CDP
+Honda,2020,renewable_energy_percent,17.8,%,Sustainability Report
+Honda,2020,climate_policy_score,D,,LobbyMap
+Honda,2021,emissions_tCO2e,28807656,tons,CDP
+Honda,2021,scope_1_emissions,16164896,tons,CDP
+Honda,2021,scope_2_emissions,12642760,tons,CDP
+Honda,2021,renewable_energy_percent,28.2,%,Sustainability Report
+Honda,2021,climate_policy_score,C,,LobbyMap
+Honda,2022,emissions_tCO2e,26807211,tons,CDP
+Honda,2022,scope_1_emissions,13005056,tons,CDP
+Honda,2022,scope_2_emissions,13802155,tons,CDP
+Honda,2022,renewable_energy_percent,33.9,%,Sustainability Report
+Honda,2022,climate_policy_score,C,,LobbyMap
+Honda,2023,emissions_tCO2e,25527168,tons,CDP
+Honda,2023,scope_1_emissions,14581973,tons,CDP
+Honda,2023,scope_2_emissions,10945195,tons,CDP
+Honda,2023,renewable_energy_percent,40.6,%,Sustainability Report
+Honda,2023,climate_policy_score,C,,LobbyMap
+Honda,2024,emissions_tCO2e,25019507,tons,CDP
+Honda,2024,scope_1_emissions,11408147,tons,CDP
+Honda,2024,scope_2_emissions,13611360,tons,CDP
+Honda,2024,renewable_energy_percent,51.5,%,Sustainability Report
+Honda,2024,climate_policy_score,D,,LobbyMap
+Honda,2025,emissions_tCO2e,24105029,tons,CDP
+Honda,2025,scope_1_emissions,16126978,tons,CDP
+Honda,2025,scope_2_emissions,7978051,tons,CDP
+Honda,2025,renewable_energy_percent,61.7,%,Sustainability Report
+Honda,2025,climate_policy_score,D,,LobbyMap
